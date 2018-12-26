@@ -18,8 +18,11 @@
 		
 		        Python can build virtual environment, in this project there
 		        is a folder with all tools necessary to run application
+				
 
 *****************************************************************************************
-
+            INSTALLING
 *****************************************************************************************
-		
+
+		        > Download the project from https://github.com/diablovillalba/django_backend
+				> 
