@@ -1,6 +1,6 @@
 ****************************************************************************************
 
-		PROJECT TESTING BACK-END WITH PYTHON AND PYTESTcaldo
+		               PROJECT TESTING BACK-END WITH PYTHON AND PYTEST
 
 ****************************************************************************************
 	        GETTING STARTED
@@ -18,8 +18,8 @@
 		
 		        Python can build virtual environment, in this project there
 		        is a folder with all tools necessary to run application
-		
-		        download project in https://github.com/diablovillalba/django_backend
-***********************************************************************************************
 
+*****************************************************************************************
+
+*****************************************************************************************
 		
