@@ -14,7 +14,7 @@
 ****************************************************************************************
 		
 		        You need to install python
-			    https://www.python.org/doc/versions/
+			    https://www.py qthon.org/doc/versions/
 		
 		        Python can build virtual environment, in this project there
 		        is a folder with all tools necessary to run application
