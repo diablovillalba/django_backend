@@ -7,7 +7,7 @@
 ****************************************************************************************
 
 		        This project was created with python and pytest thats why
-		        you must to have python 2.0 or higher.
+		        you must to have python 3.0 or higher.
 		
 ****************************************************************************************
 	        PREREQUISITES
@@ -15,9 +15,8 @@
 		
 		        You need to install python
 			    https://www.python.org/doc/versions/
-		
-		        Python can build virtual environment, in this project there
-		        is a folder with all tools necessary to run application
+				python 3.0 or higher				
+				also you need to install pytest
 
 *****************************************************************************************
             INSTALLING
@@ -26,5 +25,10 @@
 		        > Download the project from https://github.com/diablovillalba/django_backend
 				> Open a command line terminal 
 				> Go to the folder where the project was Downloaded
-				> and type Pytest
+				> With python prompt run this command: source venv/Scripts/activate
+				> With python prompt run this command: pip install -r path/to/requirements.txt
+				> Finally type Pytest
+				
+				
+		
 				
