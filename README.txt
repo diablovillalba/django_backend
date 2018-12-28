@@ -16,17 +16,20 @@
 		        You need to install python
 			    https://www.python.org/doc/versions/
 				python 3.0 or higher				
-				also you need to install pytest
+				DO NOT INSTALL PYTHON IN PROGRAM FILES
+							
 
 *****************************************************************************************
             INSTALLING
 *****************************************************************************************
-
+				> Install python in a folder from the user	
 		        > Download the project from https://github.com/diablovillalba/django_backend
 				> Open a command line terminal 
 				> Go to the folder where the project was Downloaded
-				> With python prompt run this command: source venv/Scripts/activate
-				> With python prompt run this command: pip install -r path/to/requirements.txt
+				> install virtualenv-> pip install virtualenv
+				> install pytest -> pip install pytest
+				> Activate virtualenv -> source venv/Scripts/activate
+				> With python prompt run this command: pip install -r /requirements.txt
 				> Finally type Pytest
 				
 				
